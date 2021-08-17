@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>My Blog</title>
   <icon>https://www.gravatar.com/avatar/de50f197847846b143872aac7b24cd34</icon>
-  <subtitle>to be continued...</subtitle>
+  <subtitle>欢迎进入#副标题</subtitle>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Yourname</name>
+    <name>Zu0an#作者，在博客底部可以看到</name>
     <email>yourname@yourmail.com</email>
   </author>
   
