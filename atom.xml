@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>My Blog</title>
+  <icon>https://www.gravatar.com/avatar/de50f197847846b143872aac7b24cd34</icon>
+  <subtitle>to be continued...</subtitle>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
   
-  
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2021-08-17T12:49:55.371Z</updated>
-  <id>http://example.com/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>Yourname</name>
+    <email>yourname@yourmail.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/08/17/hello-world/"/>
-    <id>http://example.com/2021/08/17/hello-world/</id>
+    <link href="http://yoursite.com/2021/08/17/hello-world/"/>
+    <id>http://yoursite.com/2021/08/17/hello-world/</id>
     <published>2021-08-17T12:49:55.371Z</published>
     <updated>2021-08-17T12:49:55.371Z</updated>
     
