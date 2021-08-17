@@ -3,11 +3,11 @@
   <title>左岸&#39;s house</title>
   <icon>https://www.gravatar.com/avatar/de50f197847846b143872aac7b24cd34</icon>
   <subtitle>欢迎进入</subtitle>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://zu0an.github.io/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://zu0an.github.io/"/>
   <updated>2021-08-17T12:49:55.371Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://zu0an.github.io/</id>
   
   <author>
     <name>Zu0an</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2021/08/17/hello-world/"/>
-    <id>http://yoursite.com/2021/08/17/hello-world/</id>
+    <link href="http://zu0an.github.io/2021/08/17/hello-world/"/>
+    <id>http://zu0an.github.io/2021/08/17/hello-world/</id>
     <published>2021-08-17T12:49:55.371Z</published>
     <updated>2021-08-17T12:49:55.371Z</updated>
     
