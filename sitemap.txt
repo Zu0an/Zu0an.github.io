@@ -1,2 +1,3 @@
-http://yoursite.com/2023/10/10/hello-world/
+http://yoursite.com/2023/10/11/test/
 http://yoursite.com/
+http://yoursite.com/tags/test/
