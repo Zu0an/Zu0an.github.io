@@ -6,7 +6,7 @@
 /**
  * @description 获取实时时间，写入 id 为 now-time 的标签中
  */
-  (function () {
+    (function () {
     const divTime = document.getElementById('now-time');
 
     function getTime() {
@@ -21,12 +21,12 @@
     setInterval(function () {
         getTime();
     }, 1000);
-  }());
+    }());
 
 /**
  * @description 判断当前页面是否为活动页
  */
-  (function () {
+    (function () {
     // 网页当前状态判断
     let state, visibilityChange, status, doc = document;
     if (typeof document.hidden !== 'undefined') {
@@ -59,4 +59,4 @@
     }, false);
     // 初始化页面状态
     // doc.title = '吕钒的后花园';
-  }());
+    }());
