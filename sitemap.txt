@@ -1,8 +1,7 @@
 http://yoursite.com/about/index.html
+http://yoursite.com/2023/10/11/test/
 http://yoursite.com/tags/index.html
 http://yoursite.com/categories/index.html
-http://yoursite.com/2023/10/11/test1/
-http://yoursite.com/2023/10/11/test/
 http://yoursite.com/
 http://yoursite.com/tags/test/
 http://yoursite.com/categories/test/
