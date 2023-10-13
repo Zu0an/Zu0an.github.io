@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://yoursite.com/2023/10/12/blog/</loc>
     
-    <lastmod>2023-10-12</lastmod>
+    <lastmod>2023-10-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/2023/10/11/test/</loc>
+    <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2023-10-12</lastmod>
     
@@ -40,15 +40,15 @@
 
   <url>
     <loc>http://yoursite.com/</loc>
-    <lastmod>2023-10-12</lastmod>
+    <lastmod>2023-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://yoursite.com/tags/test/</loc>
-    <lastmod>2023-10-12</lastmod>
+    <loc>http://yoursite.com/tags/hexo/</loc>
+    <lastmod>2023-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -56,8 +56,8 @@
 
   
   <url>
-    <loc>http://yoursite.com/categories/test/</loc>
-    <lastmod>2023-10-12</lastmod>
+    <loc>http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2023-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
